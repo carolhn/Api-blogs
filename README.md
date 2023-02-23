@@ -11,10 +11,10 @@ Neste projeto foi desenvolvido uma API e um banco de dados para a produção de 
 Para rodar a aplicação em sua maquina.
 
 1. Clone o repositorio. Use o comando:</br>
-  <code>git clone git@github.com:carolhn/Store-Manager.git</code></br>
+  <code>git clone git@github.com:carolhn/Api-blogs.git</code></br>
   
 2. Entre na pasta do repositório que você acabou de clonar:</br>
-<code>cd Store-Manager</code>
+<code>cd Api-blogs</code>
 
 3. Instale as dependências</br>
 <code>npm install</code>
